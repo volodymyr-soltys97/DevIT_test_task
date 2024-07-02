@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+
+.input {
+  width: 200px;
+  height: 30px;
+}
+
+.button {
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+  width: 100px;
+  background-color: rgb(15, 61, 224);
+  color: #fff;
+  font-weight: 700;
+  cursor: pointer;
+}
