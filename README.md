@@ -1,1 +1,0 @@
-# DevIT_test_task
